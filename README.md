@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ecool
 - 👀 I’m interested in Software Engineering, Web Development, Data Science, Machine Learning, and Game Design/Development
-- 🌱 I’m currently learning C++, Android Development, VSCode Extension Development, Unity C#, and Unity Shaders
+- 🌱 I’m currently learning C/Assembly, Compilers, VSCode Extension Development, Unity C#, and Unity Shaders
 - 💞️ I’m looking to collaborate on Unity Game Development and VSCode Extensions
 - 📫 How to reach me: <img src="https://img.shields.io/badge/Discord-%40coolazura%239553-blue" /> <img src="https://img.shields.io/badge/VSCode%20Dev%20Community%20Slack-@ecool-blue" />
 
