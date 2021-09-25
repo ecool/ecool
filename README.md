@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity C#, Foam (Personal Knowledge System), VSCode Extension Development, and Unity Shaders.
 - 💞️ I’m looking to collaborate on Unity Game Development, C# Software Development, Python Backend Development, Foam, and VSCode Extensions.
 - 📫 How to reach me: <img src="https://img.shields.io/badge/Discord-%40coolazura%239553-blue" /> <img src="https://img.shields.io/badge/VSCode%20Dev%20Community%20Slack-@ecool-blue" />
-- 👨‍💻 I'm currently looking for a 2022 Summer Internship in Game/Software Development or a part time/remote job during College. Expected graduation: June 2023.
+- 👨‍💻 I'm searching for a 2022 Summer Internship in Game/Software Development or a part time/remote job during College. Expected graduation: June 2023.
 
 <!---
 ecool/ecool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
